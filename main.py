@@ -204,8 +204,7 @@ def Back(self):
         Text_box.delete('1.0', 'end')
         Text_box.insert('1.0', Newindex)
         Stringvar.set(Elementneeded.get())
-
-
+        
 lis = []
 for x in range(0, length):
     i = list(Elements.keys())[x]

@@ -65,4 +65,4 @@ Scoll to what OS you are using
  
  Watch out for Future Releases and whats new!
 
-### This code was developed in collaboration with Soham Shah
+### This code was developed in collaboration with Soham Shah. @webdev-html

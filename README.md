@@ -1,5 +1,7 @@
 # The Periodic Table Database
 
+### This code was developed in collaboration with Soham Shah @webdev-html
+
 This Database gives information of 92 elements,from Hydrogen to Uranium 
 
 Scroll to the How To Use section to learn how to open database

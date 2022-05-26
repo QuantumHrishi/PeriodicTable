@@ -1,7 +1,7 @@
 # The Periodic Table Database
 
 
-This Database gives information of 92 elements,from Hydrogen to Uranium 
+This Database gives information of all 118 elements
 
 Scroll to the How To Use section to learn how to open database
 
@@ -62,5 +62,5 @@ Scoll to what OS you are using
 9.The Database is open!
 
 # Version Number and Releases
- Current Version: 1.5.0
+ Current Version: 1.5.4
 
